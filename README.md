@@ -1,5 +1,5 @@
 ## Hello!! I'm Micael Targino, a Full-stack Developer
-![Micael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MicaelTargino&theme=transparent)
+![Micael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MicaelTargino&theme=transparent&hide=contribs,issues)
 [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MicaelTargino&langs_count=4&hide=html&layout=compact&theme=transparent)](https://github.com/MicaelTargino/MicaelTargino)
 
 <div style="display: inline_block"><br>
