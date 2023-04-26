@@ -2,6 +2,8 @@
 ![Micael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MicaelTargino&theme=transparent&hide=contribs,issues)
 [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MicaelTargino&langs_count=4&hide=html&layout=compact&theme=transparent)](https://github.com/MicaelTargino/MicaelTargino)
 
+![Micael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MicaelTargino&show_icons=true)
+
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
