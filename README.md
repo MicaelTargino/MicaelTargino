@@ -9,9 +9,11 @@
  <a> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MicaelTargino&theme=nord_dark&utcOffset=-3" ></img></a>
 </div>
 
+<div align="center">
+ <a href="https://micaeltargino.github.io/portfolio/"> <img src="https://img.shields.io/badge/My-website-green.svg" ></img></a>
+</div>
+
 <div align="center"> 
- [![Generic badge](https://img.shields.io/badge/My-Website-blue.svg)]([https://shields.io/](https://micaeltargino.github.io/portfolio/))
- <a href="https://micaeltargino.github.io/portfolio/" target="_blank"><img src="" style="border-radius: 30px" target="_blank"></a>
 <a href="https://www.linkedin.com/in/micaeltargino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
 <a href = "mailto:micaelgomestargino@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 <a href="https://instagram.com/micaelgtargino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
