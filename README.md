@@ -5,8 +5,8 @@
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MicaelTargino&bg_color=0d1117&color=2484c6&line=2484c6&point=2484c6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 <div align="center">
- <a> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MicaelTargino&theme=transparent" ></img></a>
- <a> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MicaelTargino&theme=transparent&utcOffset=-3" ></img></a>
+ <a> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MicaelTargino&theme=nord_dark" ></img></a>
+ <a> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MicaelTargino&theme=nord_dark&utcOffset=-3" ></img></a>
 </div>
 
 <div align="center"> 
