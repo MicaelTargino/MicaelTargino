@@ -4,8 +4,7 @@
 
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MicaelTargino&bg_color=0d1117&color=2484c6&line=2484c6&point=2484c6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MicaelTargino&theme=radical&utcOffset=8)
-
+[![Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MicaelTargino&theme=2077)()]
 
 <div align="center"> 
 <a href="https://www.linkedin.com/in/micaeltargino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
