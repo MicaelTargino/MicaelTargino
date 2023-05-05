@@ -2,7 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2484c6&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Micael+Targino;I'm+18+years+old;I'm+from+Brazil;I'm+Graduating+Computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MicaelTargino&bg_color=0d1117&color=2484c6&line=2484c6&point=2484c6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MicaelTargino&bg_color=0d1117&color=2484c6&line=2484c6&point=2484c6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MicaelTargino&theme=radical&utcOffset=8)
 
 
 <div align="center"> 
