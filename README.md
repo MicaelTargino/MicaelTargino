@@ -12,6 +12,8 @@
  <a href="https://micaeltargino.github.io/portfolio/"> <img src="https://img.shields.io/badge/My-website-green.svg" ></img></a>
 </div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MicaelTargino&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <div align="center"> 
 <a href="https://www.linkedin.com/in/micaeltargino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
 <a href = "mailto:micaelgomestargino@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
