@@ -6,7 +6,6 @@
 
 <div align="center">
  <a> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MicaelTargino&theme=nord_dark" ></img></a>
- <a> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MicaelTargino&theme=nord_dark&utcOffset=-3" ></img></a>
 </div>
 
 <div align="center">
