@@ -12,7 +12,7 @@
 </div>
  -->
 <div align="center">
- <a href="https://micaeltargino.github.io/portfolio/"> <img src="https://img.shields.io/badge/My-website-green.svg" ></img></a>
+ <a target="_blank" href="https://micaeltargino.github.io/portfolio/"> <img src="https://img.shields.io/badge/My-website-green.svg" ></img></a>
 </div>
 
 
