@@ -6,11 +6,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MicaelTargino&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-<!-- <div align="center">
- <a> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MicaelTargino&theme=nord_dark" ></img></a>
-</div>
- -->
 <div align="center">
  <a target="_blank" href="https://micaeltargino.github.io/portfolio/"> <img src="https://img.shields.io/badge/My-website-green.svg" ></img></a>
 </div>
