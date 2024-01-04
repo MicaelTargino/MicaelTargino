@@ -25,6 +25,8 @@
 
 ### Studying in this moment:
 ![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-0D1117?style=for-the-badge&logo=redis&labelColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <div align="center">
