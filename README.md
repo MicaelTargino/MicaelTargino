@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2484c6&height=120&section=header">
 
- [![Typing SVG](https://readme-typing-svg.demolab.com/?color=2484c6&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Micael+Targino;I'm+a+Software+Enginneer;I'm+a+Computer+Science+Undergraduate;Be+welcome!+&#128513;)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com/?color=2484c6&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Micael+Targino;I'm+a+Software+Enginneer;I'm+a+Computer+Science+Student;Be+welcome!+&#128513;)](https://git.io/typing-svg)
 
 <div align="center">
  <a href="https://micaeltargino.github.io/portfolio/" target="_blank" > <img src="https://img.shields.io/badge/My-website-green.svg" ></img></a>
