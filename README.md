@@ -3,7 +3,7 @@
  [![Typing SVG](https://readme-typing-svg.demolab.com/?color=2484c6&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Micael+Targino;I'm+a+Software+Enginneer;I'm+a+Computer+Science+Student;Be+welcome!+&#128513;)](https://git.io/typing-svg)
 
 <div align="center"> 
-<a href="https://micaeltargino.github.io/portfolio/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Portfolio-262c3e?style=for-the-badge&logoColor=white"></img></a>
+<!-- <a href="https://micaeltargino.github.io/portfolio/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Portfolio-262c3e?style=for-the-badge&logoColor=white"></img></a> -->
 <a href="https://www.linkedin.com/in/micaeltargino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
 <a href = "mailto:micaelgomestargino@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
  </div>
